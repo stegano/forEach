@@ -9,8 +9,8 @@ Argument: `index|key, value, directive`
 #####What is directive?
 - directive has `break` and `continue` functions. It is similar to `break` and` continue` of Native Javascript.
 - below see example :)
-
 ####doneCallback
+execute when all eachCallback is over.
 ```js
 /* example */
 var arr = [1,2,3,4,5,6,7,8,9,10];
