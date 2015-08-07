@@ -4,11 +4,14 @@ forEach(collection[, eachCallback[ ,doneCallback]]);
 ---
 ####collection
 Type: `Array|Object|number`
+
 ####eachCallback
 Argument: `index|key, value, directive` 
+
 #####What is directive?
 - directive has `break` and `continue` functions. It is similar to `break` and` continue` of Native Javascript.
 - below see example :)
+
 ####doneCallback
 execute when all eachCallback is over.
 ```js
