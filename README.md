@@ -7,6 +7,7 @@ Type: `Array|Object|number`
 
 ####eachCallback
 Type: `function`
+
 Argument: `index|key, value, directive` 
 
 #####What is directive?
