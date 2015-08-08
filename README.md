@@ -6,6 +6,7 @@ forEach(collection[, eachCallback[ ,doneCallback]]);
 Type: `Array|Object|number`
 
 ####eachCallback
+Type: `function`
 Argument: `index|key, value, directive` 
 
 #####What is directive?
@@ -13,6 +14,7 @@ Argument: `index|key, value, directive`
 - below see example :)
 
 ####doneCallback
+Type: `function`
 - execute when all eachCallback is over.
 ```js
 /* example */
