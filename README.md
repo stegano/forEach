@@ -12,7 +12,7 @@ Argument: `index|key, value, directive`
 
 #####What is directive?
 - directive has `break` and `continue` functions. It is similar to `break` and` continue` of Native Javascript.
-- below see example :)
+- see below example :)
 
 ####doneCallback
 Type: `function`
